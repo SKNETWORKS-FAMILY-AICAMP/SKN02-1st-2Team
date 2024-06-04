@@ -3,3 +3,5 @@ pandas
 pymysql
 streamlit
 matplotlib
+lxml
+beautifulsoup4

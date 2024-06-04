@@ -1,5 +1,6 @@
 <div align="center">
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=ff00&text=SK_02_2Team🦋&fontColor=ff0000&fontAlign=50&textBg=false">
+
+<a href="https://www.notion.so/27552530c4c8412dabd0cc21bc9d150c?pvs=4"><img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=ff00&text=SK_02_2Team🦋&fontColor=ff0000&fontAlign=50&textBg=false"></a>
 </div>
 <div align="center">
 <h1> 서울시 전기차증가에 따른 충전소 배치 최적화</h1>  

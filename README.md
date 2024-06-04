@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=ff00&text=SK_02_2Team&fontColor=ff0000&fontAlign=50&textBg=false">
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=ff00&text=SK_02_2Team🦋&fontColor=ff0000&fontAlign=50&textBg=false">
 </div>
 <div align="center">
 <h1> 서울시 전기차증가에 따른 충전소 배치 최적화</h1>  
@@ -10,32 +10,32 @@
 
 <br>     
 <div align="center">
-    <h2> 🦋기술 스택</h2>
+    <h2> 🦋기술 스택🦋</h2>
     <div>
-      
   <img src="https://github.com/DONGGUNLEE1/gitrepo/assets/169323625/d5633054-0583-44e7-b01c-389f5b4bd2ee" alt="Untitled (1)" width="500" height="150">
-
-
   </div>
-<br><br>
 
-------
+<br>
 
 <div align="center">
-    <h2><span style="color:pink;">ERD</h2>
+    <h2><span style="color:pink;">🦋ERD🦋</h2>
 
 ![Untitled](https://github.com/DONGGUNLEE1/gitrepo/assets/169323625/8b3d96fd-4ce5-4843-9ff5-df8b7d840d6a)
 
+<br>
+
 <div allgn="center">
-   <h2><span style="color:pink;">목적</h2>
+   <h2><span style="color:pink;">🦋목적🦋</h2>
    1.전기자동차 이용 증가 대응
      <div>
    2.효율적 자원 활용
    <div>
    3.충전소 배치제안
 
+<br>
+
 <div allgn="center">
-   <h2><span style="color:pink;">한계</h2>
+   <h2><span style="color:pink;">🦋한계🦋</h2>
    1.데이터 수집의 한계 : 최신 데이터 수집의 한계 22년도 데이터사용
    <div>
    2.지역적 특성 고려의 어려움 
@@ -47,7 +47,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <div align="center">
-    <h2> 🦋참고자료</h2>
+    <h2> 🦋참고자료🦋</h2>
     <div>
 
 | <h2>CSV</h2> |   <h2>웹스크래핑</h2>  | 

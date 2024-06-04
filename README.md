@@ -7,7 +7,7 @@
     <br>
 </div>
 <div align="center">
-<h1> 서울시 전기차증가에 따른 충전소 배치 최적화</h1>  
+<h1> 서울시 전기차 증가에 따른 충전소 배치 최적화</h1>  
 <h3> |&nbsp;&nbsp;&nbsp;송문영&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; 김진유&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;사재민&nbsp;&nbsp;&nbsp;  |  &nbsp;&nbsp;&nbsp;이재원 &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;이동건&nbsp;&nbsp;&nbsp;  |</h3> 
 <div>
 
@@ -60,7 +60,7 @@
     <h2> 🦋참고자료🦋</h2>
     <div>
 
-| <h2>CSV</h2> |   <h2>웹스크래핑</h2>  | 
+| <h3>CSV</h3> |   <h3>웹스크래핑</h3>  | 
 |--------|-------------|
 | 서울시 자치구별 전기차 등록현황  |  충전소 증감률  |
 | 서울시 충전소의 충전량 |  전기차 증감률   |

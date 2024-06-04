@@ -34,5 +34,7 @@ def get_avg_cap():
     driver.quit()
 
     avg_battery = round(total_battery / total_cnt, 1)
+
+    print("다나와에서 자동차 평균 배터리 용량 크롤링 성공")
     
     return avg_battery

@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.notion.so/27552530c4c8412dabd0cc21bc9d150c?pvs=4"><img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=ff00&text=SK_02_2Team🦋&fontColor=ff0000&fontAlign=50&textBg=false"></a>
+<a href="https://wide-neptune-58c.notion.site/27552530c4c8412dabd0cc21bc9d150c"><img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=ff00&text=SK_02_2Team🦋&fontColor=ff0000&fontAlign=50&textBg=false"></a>
 <div><div align="center">
  로고를 클릭하시면 노션 페이지로 연결됩니다.
 </div>
@@ -17,7 +17,10 @@
 <div align="center">
     <h2> 🦋기술 스택🦋</h2>
     <div>
-  <img src="https://github.com/DONGGUNLEE1/gitrepo/assets/169323625/d5633054-0583-44e7-b01c-389f5b4bd2ee" alt="Untitled (1)" width="500" height="150">
+  <a href="https://www.python.org/downloads/release/python-370/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/034428e1-d5e8-417e-9dd1-617b5b68269c" alt="Untitled (1)" width="120" height="120"></a>
+     <a href="https://www.mysql.com/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/cca0452d-4558-4085-b745-0cdcc3a5ebbb" alt="Untitled (1)" width="120" height="120"></a>
+     <a href="https://pandas.pydata.org/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/2e04b09b-5b08-43f0-9659-21a92917fb1f" alt="Untitled (1)" width="120" height="120"></a>
+     <a href="https://www.selenium.dev/"><img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-2Team/assets/168343721/2f61263a-ed3c-42b4-918b-3ca71b8991b5" alt="Untitled (1)" width="120" height="120"></a>
   </div>
 
 <br>

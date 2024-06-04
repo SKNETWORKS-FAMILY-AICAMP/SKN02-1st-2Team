@@ -21,3 +21,5 @@ def insert_rechargers(input_rechargers):
     # 연결 종료
     cur.close()
     conn.close()
+
+    print("DB에 충전기 데이터 insert 성공")

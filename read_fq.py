@@ -16,5 +16,5 @@ def read_fq():
     # 연결 종료
     cur.close()
     conn.close()
-
+    print("DB에서 F&Q  불러오기 성공")
     return rows

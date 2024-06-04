@@ -82,4 +82,5 @@ def crawling_fq():
 
     result = get_total_page(driver)
     result_df = pd.DataFrame(result)
+    print("F&Q 크롤링 성공")
     return result_df

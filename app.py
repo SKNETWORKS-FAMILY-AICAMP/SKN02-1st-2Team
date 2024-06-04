@@ -74,7 +74,7 @@ if page == "Homepage":
     ax1.set_title('서울시 각 구별 충전량')
     ax1.set_ylabel('충전량 (kWh)')
 
-    ax2.set_title('서울시 가 구별 전기자동차 등록 수')
+    ax2.set_title('서울시 각 구별 전기자동차 등록 수')
     ax2.set_ylabel('단위 (대)')
     # Streamlit에서 플롯 표시
     st.pyplot(fig1)

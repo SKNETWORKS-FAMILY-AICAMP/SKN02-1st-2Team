@@ -16,5 +16,5 @@ def read_rechargers():
     # 연결 종료
     cur.close()
     conn.close()
-
+    print("DB에서 충전소 데이터 불러오기 성공")
     return rows

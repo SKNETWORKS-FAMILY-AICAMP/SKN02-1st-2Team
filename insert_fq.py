@@ -20,3 +20,5 @@ def insert_fq(input_fq):
     # 연결 종료
     cur.close()
     conn.close()
+
+    print("F&Q DB에 insert성공")

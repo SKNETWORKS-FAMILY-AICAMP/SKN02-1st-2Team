@@ -21,3 +21,5 @@ def insert_car_regist(input_car_regist):
     # 연결 종료
     cur.close()
     conn.close()
+
+    print("자동차 등록현황 DB에 insert 성공")

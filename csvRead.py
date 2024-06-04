@@ -25,6 +25,7 @@ def get_rechargers():
     df["주소"] = df["주소"].str.split("울").str[1]
     # 구별 충전량의 합 계산
     df_grouped = df.groupby("주소")["충전량(kWh)"].sum().reset_index()
+    print("충전소 csv 데이터 읽어오기 성공")
 
     return df_grouped
 
@@ -38,5 +39,5 @@ def get_car_regist():
     df = df[["시군구별", "계"]]
     # 시군구별 합 구하기
     df_grouped = df.groupby("시군구별")["계"].sum().reset_index()
-
+    print("자동차 csv 데이터 등록현황 읽어오기 성공 ")
     return df_grouped

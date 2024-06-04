@@ -16,5 +16,5 @@ def read_car_regist():
     # 연결 종료
     cur.close()
     conn.close()
-
+    print("DB에서 자동차 등록현황 불러오기 성공")
     return rows

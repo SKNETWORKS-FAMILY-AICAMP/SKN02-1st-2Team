@@ -21,4 +21,4 @@ def insert_fq(input_fq):
     cur.close()
     conn.close()
 
-    print("F&Q DB에 insert성공")
+    print("FQA DB에 insert성공")

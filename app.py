@@ -24,7 +24,7 @@ def get_data():
     avg_cap = get_avg_cap.get_avg_cap()
     fq = crawling_fq()
 
-    # DB에 rechargers, car_regist, f&q 저장
+    # DB에 rechargers, car_regist, FQA 저장
     insert_rechargers(rechargers)
     insert_car_regist(car_regist)
     insert_fq(fq)

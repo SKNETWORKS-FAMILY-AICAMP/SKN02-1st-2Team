@@ -39,8 +39,9 @@
    <div>인구 밀도,전기차 보유 비율,지리적특성,충전기 사용 패턴
   <div>
     
-<div allgn="center")
-    <h2><span style="color:pink;">참고자료</h2>
+<div align="center">
+    <h2> 🦋참고자료</h2>
+    <div>
 
 |  csv |   웹스크래핑  | 
 |--------|-------------|

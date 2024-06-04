@@ -33,6 +33,7 @@
    3.충전소 배치제안
 
 <br>
+<br>
 
 <div allgn="center">
    <h2><span style="color:pink;">🦋한계🦋</h2>
@@ -46,7 +47,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <div align="center">
+<br>
+<div align="center">
     <h2> 🦋참고자료🦋</h2>
     <div>
 

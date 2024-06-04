@@ -38,17 +38,52 @@
    2.지역적 특성 고려의 어려움 
    <div>인구 밀도,전기차 보유 비율,지리적특성,충전기 사용 패턴
   <div>
-    
-<div align="center">
-    <h2> 🦋참고자료</h2>
-    <div>
-
-|  csv |   웹스크래핑  | 
-|--------|-------------|
-| 서울시 자치구별 전기차 등록현황  |  충전소 증감률  |
-| 서울시 충전소의 충전량 |  전기차 증감률   |
-|      | 차종별 배터리 용량|
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Example</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+        .header-emphasis {
+            font-size: 2em;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2> 🦋참고자료</h2>
+        <div>
+            <table>
+                <tr>
+                    <th class="header-emphasis">CSV</th>
+                    <th class="header-emphasis">웹스크래핑</th>
+                </tr>
+                <tr>
+                    <td>서울시 자치구별 전기차 등록현황</td>
+                    <td>충전소 증감률</td>
+                </tr>
+                <tr>
+                    <td>서울시 충전소의 충전량</td>
+                    <td>전기차 증감률</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>차종별 배터리 용량</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
 

@@ -2,8 +2,10 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=ff00&text=SK_02_2Team&fontColor=ff0000&fontAlign=50&textBg=false">
 </div>
 <div align="center">
-    <h2><span style="color:pink;">송문영</span> 김진유 사재민 이재원 이동건</h2>
-    <div><strong>단위 프로젝트 주제 :서울시 전기차증가에 따른 충전소 배치 최적화<br></div></strog>
+   
+<h2> |&nbsp;&nbsp;&nbsp;송문영&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; 김진유&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;사재민&nbsp;&nbsp;&nbsp;  |  &nbsp;&nbsp;&nbsp;이재원 &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;이동건&nbsp;&nbsp;&nbsp;  |</h2> 
+<div>
+<strong> 프로젝트 주제 :서울시 전기차증가에 따른 충전소 배치 최적화<br></div></strog>
 </div>
 
       
